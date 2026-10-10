@@ -1,4 +1,4 @@
-# StayLens
+# Fireship-Exercise
 
 SQL analytics on a vacation-rental marketplace, built in MySQL 8. A schema with real
 constraints, a booking engine that cannot double-book, twelve business questions
